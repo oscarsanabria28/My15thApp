@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My15thApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <!-- String nav_header_page-->
+    <string name="mail_of_user">fiftheenGirl@mail.com</string>
+    <string name="name_of_user">Brittany Lopez Perez</string>
+
+
+    <!-- String page home-->
+    <string name="action_change_pp">Change Profile Picture</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- String page About Us-->
+    <string name="title_about_us">Page About Us</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Guests</item>
+        <item>Suppliers</item>
+        <item>Check list</item>
+        <item>Settings</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
