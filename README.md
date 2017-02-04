@@ -13,4 +13,4 @@ Release Date:
 By Oscar Alejandro Sanabria Barradas
    Jose Antonio Escobar Macías
    
-Mail contact: oscarsanabria28@gmail.com
+Contact email: oscarsanabria28@gmail.com
